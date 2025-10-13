@@ -1,0 +1,14 @@
+title: "Your Portfolio Title"
+description: "This is a responsive, professional portfolio website designed specifically for cybersecurity engineers and full-stack developers. It features a sleek cyber aesthetic with smooth animations, interactive elements, and a dual theme system (dark/light mode)."
+url: "https://realnamesareboring.github.io" #Your github url goes here
+baseurl: "/jekyll-and-hire" 
+
+author: "Your Name"
+twitter:
+  username: "yourusername"
+social:
+  name: "Your Name"
+  links:
+    - "https://twitter.com/yourusername"
+    - "https://linkedin.com/in/yourusername"
+    - "https://github.com/yourusername"
