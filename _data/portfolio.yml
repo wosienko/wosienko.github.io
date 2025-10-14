@@ -1,19 +1,19 @@
 # Personal Information - Original Template Data
 personal:
-  name: "JOHN DOE"
-  title: "Cybersecurity Engineer & Full Stack Developer"
-  tagline: "// Defending Digital Frontiers"
-  logo: "J.DOE"
-  email: "john.doe@secureemail.com"
-  phone: "+1 (555) 123-4567"
-  location: "San Francisco, CA"
-  linkedin: "linkedin.com/in/johndoe"
-  github: "github.com/johndoe"
+  name: "Piotr Wosiak"
+  title: "Offensive Security Expert"
+  tagline: "// Best Defense is Good Offense"
+  logo: "WOSIENKO"
+  # email: "piotr.wosiak@gmail.com"
+  # phone: "+48 662 974 991"
+  location: "Lodz, Poland"
+  linkedin: "https://www.linkedin.com/in/piotr-wosiak/"
+  github: "https://github.com/wosienko"
   profileImage: "/assets/img/profile.jpg"
   bio:
-    - "I'm a cybersecurity professional and full-stack developer with 5+ years of experience securing digital infrastructure and building resilient applications. Specializing in penetration testing, threat analysis, and secure application development."
-    - "When I'm not hunting vulnerabilities or coding, you'll find me contributing to security research, participating in CTF competitions, or exploring the latest in AI and machine learning."
-    - "I believe in proactive security measures and clean, documented code. Every line matters when you're protecting critical systems."
+    - "I'm a cybersecurity professional and full-stack developer with 4 years of experience securing digital infrastructure and building applications. Specializing in penetration testing, red teaming, and offensive tool development."
+    - "When I'm not breaking into companies, you'll find me sharing knowledge amongst my peers in local communities."
+    - "I believe in holistic security approaches and seeing the bigger picture. My goal is to help organizations see the value in securing their assets and data."
 
 # Navigation
 navigation:
@@ -32,141 +32,142 @@ navigation:
 
 # Experience - Original Template Data with Bullet Points
 experience:
-  - title: "Senior Cybersecurity Engineer"
-    company: "CyberDefense Corp"
-    period: "2022 - Present"
+  - title: "Penetration Tester && Red Team Operator"
+    company: "EY"
+    period: "03.2022 - 01.2024, 10.2024 - Present"
     description:
-      - "Lead security assessments and incident response for enterprise clients"
-      - "Developed automated threat detection systems reducing response time by 60%"
-      - "Implemented zero-trust architecture for critical infrastructure"
-      - "Managed team of 5 security analysts and coordinated with C-level executives"
+      - "Member of the Advanced Security Center."
+      - "Took part in:"
+      - "Web Application Penetration Testing"
+      - "Infrastructure Testing"
+      - "Network Security Testing"
+      - "NFC/RFID Security Assessments"
+      - "Mobile Application Penetration Testing"
+      - ""
+      - "Member of a group specialising in red team assessments. Developed custom Command & Control infrastructure used in the engagements. Conducted red teaming assessments."
   
-  - title: "Full Stack Security Developer"
-    company: "SecureTech Solutions"
-    period: "2020 - 2022"
+  - title: "Junior OT Security Consultant"
+    company: "Mogema"
+    period: "02.2024 - 06.2024"
     description:
-      - "Built secure web applications with integrated security monitoring"
-      - "Implemented zero-trust architecture for client applications"
-      - "Conducted code reviews and security testing for development teams"
-      - "Reduced security vulnerabilities by 75% through proactive measures"
+      - "Took part in:"
+      - "Penetration testing of critical infrastructure"
+      - "Architecture of a new, secure environment"
+      - "Vulnerability analysis"
+      - "Threat modelling"
   
-  - title: "Penetration Tester"
-    company: "Red Team Labs"
-    period: "2019 - 2020"
+  - title: "Full Stack Engineer"
+    company: "Faurecia"
+    period: "10.2023 - 01.2024"
     description:
-      - "Conducted comprehensive security assessments for Fortune 500 companies"
-      - "Identified and documented critical vulnerabilities in web applications"
-      - "Performed social engineering assessments and physical security testing"
-      - "Created detailed remediation reports for executive leadership"
+      - "Worked as part of a team that designed and developed a minimum viable product (MVP)."
+      - "Technology stack included: Nuxt, Vue, Prisma, PostgreSQL, Python (Django), Docker."
+
+  - title: "Service Desk Agent"
+    company: "Fujitsu"
+    period: "06.2021 - 09.2021"
+    description:
+      - "Contact with British clients."
+      - "Support regarding, among others: Active Directory, networking, databases."
 
 # Education - Original Template Data
 education:
-  - degree: "Master of Cybersecurity"
-    institution: "MIT"
-    period: "2017 - 2019"
-    description: "Specialized in network security and cryptography. Thesis on AI-powered threat detection systems."
+  - degree: "Master of Science in Information Security Engineering"
+    institution: "SANS Technology Institute"
+    period: "2025 - Present"
+    description: "Enrolled through Paller Cybersecurity Scholarship. Eligible for 9 GIAC certifications."
   
-  - degree: "Bachelor of Computer Science"
-    institution: "Stanford University"
-    period: "2013 - 2017"
-    description: "Focus on systems security and software engineering. Summa Cum Laude."
+  - degree: "Master of Science in Information Technology"
+    institution: "Lodz University of Technology"
+    period: "2025 - Present"
+    description: "Major in Data Science."
+
+  - degree: "Exchange Semester"
+    institution: "Windesheim University of Applied Sciences"
+    period: "2024 - 2024"
+    description: "Erasmus+ exchange program. Completed Security Engineering course."
+
+  - degree: "Bachelor of Science in Information Technology"
+    institution: "Lodz University of Technology"
+    period: "2021 - 2024"
+    description: "Thesis on 'Data Exfiltration Considering Network Traffic Characteristics'. Graded excellent (6/6)."
 
 # Certifications - Original Template Data
 certifications:
-  - name: "CISSP"
-    issuer: "ISC²"
+  - name: "GCIH"
+    issuer: "GIAC"
+    year: "2025"
+  - name: "GSEC"
+    issuer: "GIAC"
+    year: "2025"
+  - name: "PT1"
+    issuer: "TryHackMe"
+    year: "2025"
+  - name: "CRTO"
+    issuer: "Zero-Point Security"
+    year: "2024"
+  - name: "AZ-900"
+    issuer: "Microsoft"
     year: "2023"
-  - name: "CEH"
-    issuer: "EC-Council"
+  - name: "eJPT"
+    issuer: "INE"
     year: "2022"
 
 # Skills - Original Template Data
 skills:
-  - category: "Security Operations"
-    icon: "🛡️"
-    tags:
-      - "SIEM"
-      - "SOC Analysis"
-      - "Incident Response"
-      - "Threat Hunting"
-      - "Forensics"
+  # - category: "Security Operations"
+  #   icon: "🛡️"
+  #   tags:
+  #     - "SIEM"
+  #     - "SOC Analysis"
+  #     - "Incident Response"
+  #     - "Threat Hunting"
+  #     - "Forensics"
   
   - category: "Penetration Testing"
     icon: "🎯"
     tags:
-      - "Metasploit"
-      - "Burp Suite"
-      - "Nmap"
-      - "OWASP"
+      - "Web Applications"
+      - "Infrastructure"
+      - "OSINT"
+      - "Other Exotic Systems"
+
+  - category: "Red Teaming"
+    icon: "🦹"
+    tags:
+      - "Adversary Simulation"
+      - "Command & Control"
+      - "Data Exfiltration"
       - "Social Engineering"
+      - "Physical Security"
   
   - category: "Development"
-    icon: "⚡"
+    icon: "💻"
     tags:
       - "Python"
       - "Go"
-      - "React"
-      - "Node.js"
-      - "TypeScript"
-  
-  - category: "Cloud Security"
-    icon: "☁️"
-    tags:
-      - "AWS Security"
-      - "Azure Sentinel"
-      - "Docker"
-      - "Kubernetes"
-      - "Terraform"
-  
-  - category: "Cryptography"
-    icon: "🔐"
-    tags:
-      - "PKI"
-      - "TLS/SSL"
-      - "Encryption"
-      - "Digital Signatures"
-      - "Key Management"
-  
-  - category: "Compliance"
-    icon: "📋"
-    tags:
-      - "ISO 27001"
-      - "NIST"
-      - "SOC 2"
-      - "GDPR"
-      - "HIPAA"
+      - "JS/TS + Svelte/Vue"
+      - "Bash/PowerShell"
+      - "System Architecture"
+      - "Anything Else"
 
 # Projects - Original Template Data
 projects:
-  - title: "ThreatHunter AI"
+  - title: "Malgo Command & Control"
     icon: "🤖"
-    url: "https://github.com/yourusername/threathunter-ai"
-    description: "Machine learning-powered threat detection system that analyzes network traffic patterns to identify advanced persistent threats in real-time."
-    links:
-      - label: "Demo"
-        url: "#"
-      - label: "GitHub"
-        url: "#"
+    description: "Command & Control framework designed with multiple communication protocols and modular achitecture. Highly responsive owing to event-driven architecture. Developed in SvelteKit, Go, PowerShell."
+    # links:
+    #   - label: "Demo"
+    #     url: "#"
+    #   - label: "GitHub"
+    #     url: "#"
   
-  - title: "SecureVault"
-    icon: "🔒"
-    description: "End-to-end encrypted password manager with zero-knowledge architecture and biometric authentication integration."
-    links:
-      - label: "Demo"
-        url: "#"
-      - label: "GitHub"
-        url: "#"
-  
-  - title: "PenTest Toolkit"
-    icon: "🛠️"
-    description: "Comprehensive penetration testing framework with automated vulnerability scanning and reporting capabilities."
-    links:
-      - label: "GitHub"
-        url: "#"
+  - title: "Malware Development"
+    icon: "🦠"
+    description: "Ongoing malware development research. Focus on polymorphic techniques. Implementations in C/C++, Zig, Nim."
 
-# SEO - Original Template Data
 seo:
-  title: "JOHN DOE - Cybersecurity Engineer & Full Stack Developer"
-  description: "Cybersecurity Engineer and Full Stack Developer specializing in threat detection, penetration testing, and secure application development."
-  keywords: "cybersecurity, penetration testing, full stack developer, threat hunting, security engineer"
+  title: "Piotr Wosiak - Offensive Security Expert"
+  description: "Offensive Security Expert specializing in red teaming operations, penetration testing, and malware development."
+  keywords: "cybersecurity, penetration testing, malware development, red teaming, security engineer, red team operator, threat simulation, threat emulation"
   ogImage: "/assets/img/profile.jpg"

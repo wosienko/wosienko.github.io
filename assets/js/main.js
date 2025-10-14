@@ -1,13 +1,13 @@
 // Google Forms Configuration
 const CONTACT_FORM_CONFIG = {
-    formId: 'YOUR_ACTUAL_FORM_ID_HERE_000000000000000000000000000000', // Your Google Form ID
+    formId: '1FAIpQLSeIBa6Lw1lM5hD7kNHA3PDKwuCzN5TGdPYC2Fwjy2hm-fWiKQ', // Your Google Form ID
     fields: { //Refer to README.md Contact Form Setup - Step 5
-        name: 'entry.0000000000', 
-        email: 'entry.0000000000',  
-        subject: 'entry.0000000000',
-        message: 'entry.0000000000'
+        name: 'entry.928934341', 
+        email: 'entry.1680202427',  
+        subject: 'entry.1184598151',
+        message: 'entry.1188807828'
     },
-    fallbackEmail: 'emailgoeshere@email.com' // Input email here, not required
+    fallbackEmail: 'piotr.wosiak@email.com' // Input email here, not required
 };
 
 // Theme Toggle
