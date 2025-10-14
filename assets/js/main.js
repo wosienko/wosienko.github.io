@@ -297,8 +297,8 @@ function typeWriter(element, text, speed = 100) {
 document.addEventListener('DOMContentLoaded', () => {
     setTimeout(() => {
         const subtitle = document.querySelector('.hero-subtitle');
+        const originalText = document.querySelector('#hero-subtitle-text').textContent;
         if (subtitle) {
-            const originalText = subtitle.textContent;
             typeWriter(subtitle, originalText, 80);
         }
     }, 1000);
